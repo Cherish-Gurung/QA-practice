@@ -1,0 +1,17 @@
+{
+    "contact": {
+        "firstName":"Abc",
+        "lastName":"Mark",
+        "email":"er=ge@email.com",
+        "dateOfBirth":"2004-07-26",
+        "phone":"9808781502",
+        "address":"Blalaaaak",
+        "city":"Some",
+        "state":"state",
+        "postal":"1234",
+        "country":"AAA"
+    },
+    "contactEdit":{
+        "firstName":"Hello"
+    }
+}

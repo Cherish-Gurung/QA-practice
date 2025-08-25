@@ -1,0 +1,14 @@
+{
+    "validLogin": {
+        "username": "CherishGurung@gmail.com",
+        "password": "Cherish123"
+    },
+    "invalidLogin": {
+        "username": "ppk@gmail.com",
+        "password": "test12"
+    },
+    "emptyLogin": {
+        "username": "",
+        "password": ""
+    }
+}
